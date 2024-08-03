@@ -18,7 +18,7 @@ body {
     position: relative;
     background: #fff;
     text-align: left;
-    border: 4px solid #666;
+    border: 4px solid #333f48;
     padding: 15px;
     margin: 0 0 15px 0;
 }
@@ -84,7 +84,7 @@ li {
 
 /* Various classes */
 .slogan {
-    color: #ccc;
+    color: #ffffff;
     font-size: 1.4em;
     margin: 0 0 10px 0;
     padding: 0;
@@ -100,10 +100,10 @@ li {
     padding: 3px 10px 5px 10px;
     font-weight: 400;
     margin: 0 2px;
-    color: #ccc;
+    color: #333f48;
 }
 .toptab:hover {
-    background-color: #444;
+    background-color: #9cadb7;
     color: #fff;
     text-decoration: none;
 }
@@ -112,7 +112,7 @@ li {
     color: #fff;
 }
 .active:hover {
-    background-color: #444;
+    background-color: #9cadb7;
     color: #fff;
 }
 .bottomlinks, .bottomlinks a {
