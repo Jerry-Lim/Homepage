@@ -11,14 +11,14 @@ body {
 #wrap {
     width: 90%;
     max-width: 1200px;
-    text-align: center; /* 左对齐内容 */
+    text-align: center;
     margin: 0 auto;
 }
 #maincontent {
     display: flex; /* 使用Flexbox布局 */
     justify-content: space-between; /* 左右两部分之间保持间距 */
     align-items: flex-start; /* 顶部对齐 */
-    text-align: center;
+    text-align: left;
     background: #fff;
     border: 4px solid #333f48;
     padding: 15px;
@@ -83,7 +83,7 @@ h3 {
     margin: 0 0 10px 0;
 }
 p {
-    margin: 20px 15px 15px 15px;
+    margin: 15px 15px 15px 15px;
     color: #444;
     font-size: 1.3em;
     line-height: 1.5;
