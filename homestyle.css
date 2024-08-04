@@ -10,7 +10,8 @@ body {
     line-height: 1.5em;
 }
 #wrap {
-    width: 760px;
+    width: 90%;
+    max-width: 1200px;
     text-align: center;
     margin: 0 auto;
 }
@@ -21,6 +22,10 @@ body {
     border: 4px solid #333f48;
     padding: 15px;
     margin: 0 0 15px 0;
+}
+#maincontent img.centered {
+    display: block;
+    margin: 10px auto 0 auto; /* 上方10px，水平居中 */
 }
 
 /* HTML Tags */
