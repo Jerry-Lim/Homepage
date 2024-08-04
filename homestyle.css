@@ -25,7 +25,7 @@ body {
 
 #maincontent img.centered {
     display: block;
-    width: 40%;
+    width: 20%;
     margin: 10px auto auto auto;
 }
 
@@ -99,27 +99,27 @@ li {
     clear: both;
     font-size: 1.4em;
     line-height: 1.5em;
-    color: #aaa;
+    color: #ffffff;
     margin: 0 0 15px 0;
 }
 .toptab {
     padding: 3px 10px 5px 10px;
     font-weight: 400;
     margin: 0 2px;
-    color: #333f48;
+    color: #ffffff;
 }
 .toptab:hover {
     background-color: #9cadb7;
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 .active {
     background-color: #444;
-    color: #fff;
+    color: #ffffff;
 }
 .active:hover {
     background-color: #9cadb7;
-    color: #fff;
+    color: #ffffff;
 }
 .bottomlinks, .bottomlinks a {
     bottom: 10px;
