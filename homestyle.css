@@ -5,7 +5,6 @@ body {
     font: 76% verdana, tahoma, sans-serif;
     background: #BF5700;
     color: #444;
-    border-top: 4px solid #444;
     text-align: center;
     line-height: 1.5em;
 }
@@ -26,8 +25,8 @@ body {
 
 #maincontent img.centered {
     display: block;
-    width: 80%;
-    margin: 10px auto 0 auto;
+    width: 40%;
+    margin: 10px auto auto auto;
 }
 
 /* HTML Tags */
@@ -46,17 +45,17 @@ h1 {
     margin: 15px auto 10px auto;
     padding: 0;
     font-size: 2.6em;
-    color: #eee;
+    color: #ffffff;
     letter-spacing: -2px;
     line-height: 1.2em;
 }
 h1 a {
-    color: #eee;
+    color: #ffffff;
     font-weight: 700;
     text-decoration: none;
 }
 h1 a:hover {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 h2 {
@@ -64,7 +63,7 @@ h2 {
     padding: 12px 6px 12px 15px;
     background: #3c0462 top center no-repeat;
     border-left: 4px solid #666;
-    color: #ddd;
+    color: #ffffff;
     font-size: 1.5em;
     font-weight: 400;
     text-align: center;
