@@ -23,9 +23,11 @@ body {
     padding: 15px;
     margin: 0 0 15px 0;
 }
+
 #maincontent img.centered {
     display: block;
-    margin: 10px auto 0 auto; /* 上方10px，水平居中 */
+    width: 80%;
+    margin: 10px auto 0 auto;
 }
 
 /* HTML Tags */
