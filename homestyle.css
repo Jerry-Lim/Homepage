@@ -9,7 +9,7 @@ body {
     line-height: 1.5em;
 }
 #wrap {
-    width: 90%;
+    width: 60%;
     max-width: 1200px;
     text-align: center;
     margin: 0 auto;
@@ -25,8 +25,8 @@ body {
 
 #maincontent img.centered {
     display: block;
-    width: 60%;
-    margin: 10px auto 15px auto;
+    width: 80%;
+    margin: 5px auto 15px auto;
 }
 
 /* HTML Tags */
