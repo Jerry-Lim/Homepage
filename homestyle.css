@@ -110,7 +110,7 @@ li {
     color: #ffffff;
 }
 .toptab:hover {
-    background-color: #9cadb7;
+    background-color: #444;
     color: #ffffff;
     text-decoration: none;
 }
@@ -119,29 +119,21 @@ li {
     color: #ffffff;
 }
 .active:hover {
-    background-color: #9cadb7;
+    background-color: #444;
     color: #ffffff;
 }
 .bottomlinks, .bottomlinks a {
     bottom: 10px;
     text-align: center;
-    color: #888;
+    color:  #ffffff;
     font-size: 0.9em;
     font-weight: 400;
     margin: 5px auto;
 }
 .footer, .footer a {
-    color: #888;
+    color:  #ffffff;
     font-weight: 400;
 }
 .hide {
     display: none;
-}
-.withpicture {
-    height: 450px;
-}
-.imgleft {
-    float: right;
-    padding-left: 50px;
-    margin: 0;
 }
